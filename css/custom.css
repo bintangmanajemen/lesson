@@ -1,0 +1,88 @@
+
+<style type="text/css">
+	.cc-floating .cc-message {
+		font-family: "Proxima Nova", Helvetica, sans-serif;
+	}
+
+	.cc-btn {
+		font-family: "Proxima Nova", Helvetica, sans-serif;
+		font-size: 16px;
+		font-weight: 600;
+	}
+</style>
+<style type="text/css">
+					/* Link color */
+			a,
+			#comments .bypostauthor .fn:before {
+				color: #222222;
+			}
+		
+		
+					/* Header subtitle color */
+			.hero-title h3,
+			.hero-title p {
+				color: #f7f7f7;
+			}
+		
+					/* Main navigation link color */
+			.main-navigation a,
+			.site-description {
+				color: #f7f7f7;
+			}
+		
+					/* Footer navigation link color */
+			.site-footer a,
+			.site-footer .copyright a,
+			.site-footer,
+			.widget .menu li a:before {
+				color: #e7e7e7;
+			}
+		
+					/* EDD related colors */
+			#content .fes-vendor-menu ul li.active,
+			#content .fes-vendor-menu ul li:hover {
+				border-top-color: #222222;
+			}
+		
+					/* Background color for various elements throughout the theme */
+			input[type="submit"],
+			.button,
+			.post-content .button,
+			.cta-button,
+			#content .contact-form input[type="submit"],
+			#commentform #submit,
+			.portfolio-wrapper .rslides_nav:hover,
+			.quantities-enabled .single-quantity-mode:not(.free-download) [id^="edd_purchase"] .edd_purchase_submit_wrapper,
+			[id^="edd_purchase"] .edd-add-to-cart:not(.download-meta-purchase),
+			#mailbag_mailchimp .mailbag-input .button,
+			input[type=checkbox]:checked,
+			input[type=radio]:checked,
+			#content input[type=submit].edd-submit,
+			.download-meta .edd_go_to_checkout,
+			.page-numbers.current,
+			.page-numbers:hover,
+			.rslides_nav:hover,
+			.main-navigation .edd_checkout,
+			#searchform #searchsubmit,
+			.edd-cart-added-alert,
+			.quantities-enabled [id^="edd_purchase"] .edd_purchase_submit_wrapper,
+			.post-password-form input[type="submit"] {
+				background: #222222;
+			}
+		
+					/* Background color for the header and footer */
+			.site-header, .site-footer {
+				background-color: #222222;
+			}
+		
+					/* Background color for the first button in the header */
+			.button-one {
+				background: #222222;
+			}
+		
+					/* Background color for the second button in the header */
+			.button-two {
+				background: #222222;
+			}
+		
+			</style>
